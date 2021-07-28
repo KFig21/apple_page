@@ -1,7 +1,7 @@
 # apple_page
 
 - CSS project for The Odin Project HTML/CSS curriculum
-- Re-create an old Apple homepage
+- Re-create an <a href="https://web.archive.org/web/20140301004610/http://www.apple.com/" target="_blank" rel="noopener noreferrer">old Apple homepage</a>
 - Utilize new display knowledge of background images, gradients, and positioning elements
 
 <h3> Things I'm proud of: </h3>
