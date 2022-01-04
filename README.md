@@ -1,20 +1,9 @@
 # apple_page
 
-- <a href="https://kfig21.github.io/apple_page/" target="_blank" rel="noopener noreferrer">View the project here!</a>
-- CSS project for The Odin Project HTML/CSS curriculum
-- Re-create an <a href="https://web.archive.org/web/20140301004610/http://www.apple.com/" target="_blank" rel="noopener noreferrer">old Apple homepage</a>
-- Utilize new display knowledge of background images, gradients, and positioning elements
+<p><a href="https://kfig21.github.io/apple_page/" target="_blank" rel="noopener noreferrer">View the project here!</a> 👀</p>
 
-<h3> Things I'm proud of: </h3>
-
-<ul>
- <li>The accuracy of the gradient on the navbar</li>
- <li>The hover events on the navbar</li>
-</ul>
-
-<h3> Things I need guidance with: </h3>
-
-- I was not able to re-create the responsive design on the navbar when the user selects the search bar
+<h3>Summary</h3>
+<p>This was the building with backgrounds and gradients project for <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/html-and-css/lessons/building-with-backgrounds-and-gradients" target="_blank" rel="noopener noreferrer">The Odin Project's</a> HTML/CSS curriculum. The goal of the project is to re-create an <a href="https://web.archive.org/web/20140301004610/http://www.apple.com/" target="_blank" rel="noopener noreferrer">old Apple homepage</a></p>
 
 -----------------------------
 
